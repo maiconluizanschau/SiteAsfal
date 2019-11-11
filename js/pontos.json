@@ -1,0 +1,16 @@
+[
+	{
+		"Id": 1,
+        "Latitude": -29.709569,
+        "Longitude": -53.728095,
+		"Descricao": "Universidade Federal de Santa Maria"
+        
+    },
+    {
+		"Id": 2,
+        "Latitude": -29.684517,
+        "Longitude": -53.810664,
+		"Descricao": "Centro Universitário Franciscano"
+    }
+   
+]
